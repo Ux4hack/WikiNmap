@@ -1,5 +1,6 @@
+<p align="center">
 <a href="https://github.com/"><img alt="AwesomeWM Logo" height="115" align = "center" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
-[![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
+</p>
 
 <h1 align="center">  Wiki Nmap  </h1>
 
