@@ -1,4 +1,4 @@
-<a href="https://github.com/"><img alt="AwesomeWM Logo" height="100" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
+<a href="https://github.com/"><img alt="AwesomeWM Logo" height="110" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
 <b>🔰APRENDE EL USO DE NMAP CON WIKI NMAP 🔰</b>
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
@@ -32,7 +32,7 @@
 
 Script en bash diseñado para facilitar al usuario novato o experto diferentes técnicas de escaneos con la herramienta Nmap para pentesting
 
-## Distros
+### Distros
 
 ![LogoFacha](https://github.com/Ux4hack/WikiNmap/blob/main/.3logo.png)
 
