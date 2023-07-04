@@ -2,11 +2,11 @@
 <b>🔰APRENDE EL USO DE NMAP CON WIKI NMAP 🔰</b>
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
-<p align="center">
+
 <p align="center">
   <h1><a href="https://github.com/Ux4hack/WikiNmap">Wiki Nmap</a></h1>
 </p>
-</p>
+
 ![LogoFacha](https://github.com/Ux4hack/WikiNmap/blob/main/.2logo.png)
 
 <p align="center">
