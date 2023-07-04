@@ -25,9 +25,9 @@
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/Ux4hack/WikiNmap?style=flat&color=e06c75&label="> </a>
 
 ---
-
+<p align="center">
 Script en bash diseñado para facilitar al usuario novato o experto diferentes técnicas de escaneos con la herramienta Nmap para pentesting
-
+</p>
 </p>
 
 ### Distros
@@ -49,7 +49,7 @@ Script en bash diseñado para facilitar al usuario novato o experto diferentes t
 * $ sudo apt-get update && sudo apt-get upgrade -y
 * $ sudo apt-get install git -y
 * $ sudo apt-get install nmap -y (opcional)
-* $ git clone https://github.com/Ux4hack/WikiNmap`
+* $ git clone https://github.com/Ux4hack/WikiNmap
 * $ cd WikiNmap
 * $ chmod +x *
 * $ bash wikimap.sh
