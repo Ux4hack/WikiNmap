@@ -1,9 +1,9 @@
 <a href="https://github.com/"><img alt="AwesomeWM Logo" height="105" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
-<b> TECNICAS NMAP </b>
+<b> WikiNmap</b>
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
 
-<h3 align="center">  Wiki Nmap  </h3>
+<h1 align="center">  Wiki Nmap  </h1>
 
 ![LogoFacha](https://github.com/Ux4hack/WikiNmap/blob/main/.2logo.png)
 
