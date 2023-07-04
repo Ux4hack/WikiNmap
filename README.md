@@ -3,7 +3,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
 
-<h1><a href="https://github.com/Ux4hack/WikiNmap">Wiki Nmap</a></h1>
+<p align="center">
+
+  <h1><a href="https://github.com/Ux4hack/WikiNmap">Wiki Nmap</a></h1>
 
 
 ![LogoFacha](https://github.com/Ux4hack/WikiNmap/blob/main/.2logo.png)
@@ -31,14 +33,16 @@
 
 Script en bash diseñado para facilitar al usuario novato o experto diferentes técnicas de escaneos con la herramienta Nmap para pentesting
 
+</p>
+
 ### Distros
 
 ![LogoFacha](https://github.com/Ux4hack/WikiNmap/blob/main/.3logo.png)
 
 ## 🛠️ Instalación en Termux
 
-* $ `apt update && apt upgrade -y`
-* $ `pkg install git -y`
+* $ apt update && apt upgrade -y
+* $ pkg install git -y
 * $ `pkg install nmap -y (opcional)`
 * $ `git clone https://github.com/Ux4hack/WikiNmap`
 * $ `cd WikiNmap`
