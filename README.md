@@ -1,4 +1,4 @@
-<a href="https://github.com/"><img alt="AwesomeWM Logo" height="120" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
+<a href="https://github.com/"><img alt="AwesomeWM Logo" height="100" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
 <b>🔰APRENDE EL USO DE NMAP CON WIKI NMAP 🔰</b>
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
@@ -29,7 +29,7 @@
 <a href="https://github.com/Ux4hack/WikiNmap/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/Ux4hack/WikiNmap?style=flat&color=e06c75&label="> </a>
 
----
+
 Script en bash diseñado para facilitar al usuario novato o experto diferentes técnicas de escaneos con la herramienta Nmap para pentesting
 
 ## Distros
@@ -40,21 +40,21 @@ Script en bash diseñado para facilitar al usuario novato o experto diferentes t
 
 * $ `apt update && apt upgrade -y`
 * $ `pkg install git -y`
-* `$ pkg install nmap -y (opcional)`
-* $ git clone https://github.com/Ux4hack/WikiNmap
-* $ cd WikiNmap
-* $ chmod +x *
-* $ bash wikimap.sh
+* $ `pkg install nmap -y (opcional)`
+* $ `git clone https://github.com/Ux4hack/WikiNmap`
+* $ `cd WikiNmap`
+* $ `chmod +x *`
+* $ `bash wikimap.sh`
 
 ## 🛠️ Instalación en Debian
 
-* $ sudo apt-get update && sudo apt-get upgrade -y
-* $ sudo apt-get install git -y
-* $ sudo apt-get install nmap -y (opcional)
-* $ git clone https://github.com/Ux4hack/WikiNmap
-* $ cd WikiNmap
-* $ chmod +x *
-* $ bash wikimap.sh
+* $ `sudo apt-get update && sudo apt-get upgrade -y`
+* $ `sudo apt-get install git -y`
+* $ `sudo apt-get install nmap -y (opcional)`
+* $ `git clone https://github.com/Ux4hack/WikiNmap`
+* $ `cd WikiNmap`
+* $ `chmod +x *`
+* $ `bash wikimap.sh`
 
 ## 🚀 Contactar 🚀
 
