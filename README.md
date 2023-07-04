@@ -1,5 +1,5 @@
 <a href="https://github.com/"><img alt="AwesomeWM Logo" height="105" align = "left" src="https://github.com/Ux4hack/WikiNmap/blob/main/.logo.png"></a>
-<b>🔰APRENDE EL USO DE NMAP CON WIKI NMAP 🔰</b>
+<b>🔰APRENDE A USAR NMAP CON WIKI NMAP 🔰</b>
 [![Telegram Badge](https://img.shields.io/badge/-Ux4hack-32C803?style=for-the-badge&logo=telegram&logoColor=black&link=https://t.me/Ux4hack)](https://t.me/Ux4hack)
   <p>&nbsp; </p>
 
