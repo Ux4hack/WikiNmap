@@ -26,7 +26,7 @@
 
 ---
 <p align="center">
-Script en bash diseñado para facilitar al usuario novato o experto diferentes técnicas de escaneos con la herramienta Nmap para pentesting
+Script en bash diseñado para facilitar al usuario novato o experto un menu de ayuda de diferentes técnicas de escaneos con la herramienta Nmap para el aprendizaje o para pentesting
 </p>
 </p>
 
