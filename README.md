@@ -26,7 +26,7 @@
 
 ---
 <p align="center">
-Script en bash diseñado para facilitar al usuario novato o experto un menu de ayuda de diferentes técnicas de escaneos con la herramienta Nmap para el aprendizaje o para pentesting
+Script en bash diseñado para facilitar al usuario novato o experto un menu de ayuda de diferentes técnicas de escaneos con la herramienta Nmap para el aprendizaje o para pentesting y de esta manera aprenda a usar nmap
 </p>
 </p>
 
@@ -42,7 +42,7 @@ Script en bash diseñado para facilitar al usuario novato o experto un menu de a
 * $ git clone https://github.com/Ux4hack/WikiNmap
 * $ cd WikiNmap
 * $ chmod +x *
-* $ bash wikimap.sh
+* $ bash wikinmap.sh
 
 ## 🛠️ Instalación en Debian
 
@@ -52,7 +52,7 @@ Script en bash diseñado para facilitar al usuario novato o experto un menu de a
 * $ git clone https://github.com/Ux4hack/WikiNmap
 * $ cd WikiNmap
 * $ chmod +x *
-* $ bash wikimap.sh
+* $ bash wikinmap.sh
 
 ## 🚀 Contactar 🚀
 
